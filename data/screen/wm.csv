@@ -1,0 +1,425 @@
+,label,ncountries
+HH1,Numéro de grappe,1
+HH2,Numéro du ménage,1
+LN,Numéro de la ligne,1
+WM1,Numero de grappe,1
+WM2,Numéro de ménage,1
+WM3,Numéro de ligne de la mére,1
+WMINT,Code de l'enquétrice,1
+WM4,Numéro du Superviseur,1
+WM5,Code de l'enquétrice,1
+WM6D,Jour de l'interview,1
+WM6M,Mois de l'interview,1
+WM6Y,Année de l'interview,1
+WM8,Répondant du ménage,1
+WM9,Consentement,1
+WM17,Résultat de l'interview de la femme,1
+WM7H,Début de l'interview - Heure,1
+WM7M,Début de l'interview - Minutes,1
+WM10H,Fin de l'interview - Heure,1
+WM10M,Fin de l'interview - Minutes,1
+WM11,Interview teminée en privé,1
+WM12,Langue du Questionnaire,1
+WM13,Lange de l'Interview,1
+WM14,Langue maternel du répondant,1
+WM15,Usage du traducteur,1
+WMHINT,Interview du ménage,1
+WB3M,Mois de naissance de la femme,1
+WB3Y,Année de naissance de la femme,1
+WB4,Age de la femme,1
+WB5,Déjé fréquenté l'école,1
+WB6A,Le plus haut niveau d'école fréquenté,1
+WB6B,La classe la plus élevéé fréquentée é ce niveau,1
+WB7,Classe completée,1
+WB9,Fréquentation é l'école pendant l'année scolaire en cours (2017-2018),1
+WB10A,Niveau fréquienté  pendant l'année scolaire actuelle (2017-2018),1
+WB10B,Classe fréquentée pendant l'année scolaire actuelle (2017 - 2018),1
+WB11,A fréquenter l'école l'année derniére (2016 - 2017),1
+WB12A,Niveau d'école fréquenté l'année  derniére (2016-2017),1
+WB12B,Classe fréquentée l'année derniére (2016-2017),1
+WB14,Peut lire une partie de la phrase,1
+WB15,Durée de vie dans l'endroit actuel,1
+WB16,Lieu de vie avant de déménager é l'endroit actuel,1
+WB17,Province avant de déménager é l'endoit actuel,1
+WB18,Couvert par l'assurance maladie,1
+WB19A,Type d'assurance maladie:  Organisation mutuelle de santé/Assurance santé é base communautaire,1
+WB19B,Type d'assurance maladie: Assurance santé de l'employeur,1
+WB19C,Type d'assurance maladie: Sécurité sociale,1
+WB19D,Type d'assurance maladie: Autre assurance santé& priv&ée achetée,1
+WB19X,Type d'assurance maladie:Autre,1
+WB19NR,Type d'assurance maladie: Non réponse,1
+MT1,Fréquence de la lecture d'un journal ou d'un magazine,1
+MT2,Fréquence d'écoute de la radio,1
+MT3,Fréquence de regarder la télévision,1
+MT4,Fréquence de regarder la télévision,1
+MT5,Utilisation de l'ordinateur / tablette au cours des 3 derniers mois,1
+MT6A,Au cours des 3 derniers mois:  Copié/ Déplacé fichier,1
+MT6B,Au cours des 3 derniers mois: Utilisé  copier/ coller dans un document,1
+MT6C,Au cours des 3 derniers mois: Envoyé un e-mail avec un fichier attaché,1
+MT6D,Au cours des 3 derniers mois: Utilisé formule de base dans feuille de calcul,1
+MT6E,Au cours des 3 derniers mois: Connecté un équipement,1
+MT6F,Au cours des 3 derniers mois: Installer un logiciel,1
+MT6G,Au cours des 3 derniers mois: Creé une présentaion,1
+MT6H,Au cours des 3 derniers mois: Transferé  un fichier,1
+MT6I,Au cours des 3 derniers mois: Ecrit un programme,1
+MT9,A-t-elle déjé utilisé Internet,1
+MT10,Utilisation de l'internet au cours de 3 derniers mois,1
+MT11,A-t-elle un téléphone portable,1
+MT12,Utilisation de téléphone portable au cours de 3 derniers mois,1
+CM1,A-t-elle déjé donné naissance,1
+CM2,Des fils ou des filles vivant avec vous,1
+CM3,Des fils  vivant avec vous,1
+CM4,Des filles vivant avec vous,1
+CM5,Des fils ou des filles qui ne vivent pas avec vous,1
+CM6,Des fils qui ne vivent pas avec vous,1
+CM7,Des filles qui ne vivent pas avec vous,1
+CM8,A-t-elle déjé eu un enfant né vivant et qui est mort plus tard,1
+CM9,Des fils décédés,1
+CM10,Des filles décédées,1
+CM11,Total de naissances,1
+CM12,Confirmer le nombre total de naissances,1
+CM15,Vérifiez le nombre total  de naissances,1
+CM17,Naissances vivantes dans les 2 derniéres années,1
+BH11,Autres naissances vivantes,1
+DB2,La derniére grossesse a été désirée,1
+DB4,Désir d'avoir un enfant plus tard ou de ne plus avoir d'enfants,1
+MN2,A reéu les soins prénataux,1
+MN3A,Fournisseur de soins prénataux:  Médecin,1
+MN3C,Fournisseur de soins prénataux:  Infirmiére/ Infirmiére,1
+MN3D,Fournisseur de soins prénataux:  Accoucheuse/ sage femme,1
+MN3F,Fournisseur de soins prénataux: Accoucheuse traditionnelle,1
+MN3G,Fournisseur de soins prénataux: Agent de santé communautaire,1
+MN3X,Fournisseur de soins prénataux: Autre,1
+MN3NR,Fournisseur de soins prénataux: Non réponse,1
+MN4AU,Semaines ou mois de grossesse au premier soin prénatal - Unité,1
+MN4AN,Semaines ou mois de grossesse au premier soin prénatal - Nombre,1
+MN5,Nombre de fois en consultation prénatale,1
+MN6A,Tension,1
+MN6B,Echantillon d'urine,1
+MN6C,Echantillon de sang,1
+MN7,Posséde une carte de vaccination,1
+MN8,Injection antitétanique pendant la derniére grossesse,1
+MN9,Nombre de fois l'injection antitétanique  a été reéue au cours de la derniére grossesse,1
+MN11,Injection d'antitétanique avant la derniére grossesse,1
+MN12,Nombre de fois l'injection antitétanique  a été reéue avant la derniére grossesse,1
+MN14,Cela fait combien d'années a été reéu cette injection antitétanique,1
+MN16,Prise de SP/Fansidar durant la grossesse,1
+MN17,Nombre de fois que le SP/Fansidar a été pris durant la derniére grossesse,1
+MN18A,"Reéu SP / Fansidar lors d'une visite de soins prénatals, ou lors d'une autre visite: Visite parentale",1
+MN18B,Reéu SP / Fansidar lors d'une visite de soins prénatals ou lors d'une autre visite: Visite dans un Centre de santé,1
+MN18X,"Reéu SP / Fansidar lors d'une visite de soins prénatals, ou lors d'une autre visite: Autre source",1
+MN18NR,"Reéu SP / Fansidar lors d'une visite de soins prénatals, ou lors d'une autre visite:Non réponse",1
+MN19A,Assistance é l'accouchement: MEDECIN,1
+MN19C,Assistance é l'accouchement: INFIRMIER/INFIRMIERE,1
+MN19D,Assistance é l'accouchement: ACCOUCHEUSE/SAGE-FEMME,1
+MN19F,Assistance é l'accouchement: ACCOUCHEUSE TRADITIONNELLE/MATRONE,1
+MN19G,Assistance é l'accouchement: AGENT DE SANTE COMMUNAUTAIRE,1
+MN19H,Assistance é l'accouchement: PARENT/AMI,1
+MN19X,Assistance é l'accouchement: AUTRE,1
+MN19Y,Assistance é l'accouchement: PERSONNE,1
+MN19NR,Assistance é l'accouchement: NON REPONSE,1
+MN20,Lieu d'accouchemnt,1
+MN21,Accouchemnt par césarienne,1
+MN22,Quand la décision d'accoucher par césarienne a été prise,1
+MN23,"Aprés la naissance, le bébé a été placé directement sur la peau nue de la poitrine de la mére",1
+MN24,Bébé a été enveloppé avant d'étre placé sur la poitrine de la mére,1
+MN25,Le bébé a été séché(e) ou essuyé(e) peu de temps aprés la naissance,1
+MN26U,Temps que le bébé  a été lavé aprés la naissance - Unité,1
+MN26N,Temps que le bébé  a été lavé aprés la naissance - Nombre,1
+MN28,Ce qui a été utilisé pour couper le cordon,1
+MN29,Instrument utilisé pour couper le cordon  a été bouilli avant l'utilisation,1
+MN30,Quelque chose a été appliquée sur le cordon ombilical aprés avoir été coupé,1
+MN31A,Ce qui a été appliqué au cordon:  Chlorhexidine/Betadine,1
+MN31B,"Ce qui a été appliqué au cordon:  Autre antiseptique (alcool, cordial gentiale violette)",1
+MN31C,Ce qui a été appliqué au cordon:  Huile de palme,1
+MN31D,Ce qui a été appliqué au cordon:  Cendre,1
+MN31E,Ce qui a été appliqué au cordon: Bouses d'animaux,1
+MN31X,Ce qui a été appliqué au cordon: Autre,1
+MN31Z,Ce qui a été appliqué au cordon: NSP / Ne se souvient pas,1
+MN31NR,Ce qui a été appliqué au cordon: Non réponse,1
+MN32,Taille de l'enfant é la naissance,1
+MN33,Pesé é la naissance,1
+MN34A,Poids enregistré sur le certificat de naissance ou déclaration de la mére,1
+MN34,Poids é la naissance (kilogrammes),1
+MN35,Retour des régles depuis la naissance de l'enfant,1
+MN36,Avez-vous déjé allaité,1
+MN37U,Temps  ap^rés la naissance que ler bébé a été mis au sein - Unité,1
+MN37N,Temps  ap^rés la naissance que ler bébé a été mis au sein - Nombre,1
+MN38,"Dans les 3 premiers jours aprés l'accouchement, l'enfant a reéu quelque chose é boire que le lait maternel",1
+MN39A,Enfant a reéu é boire:  Lait (autre que maternel),1
+MN39B,Enfant a reéu é boire: De l'eau seule,1
+MN39C,Enfant a reéu é boire: Sucre é eau avc du glucose,1
+MN39D,Enfant a reéu é boire: Calmant pour colique,1
+MN39E,Enfant a reéu é boire: Solution Eau -Salée-sucrée,1
+MN39F,Enfant a reéu é boire: Jus de fruit,1
+MN39G,Enfant a reéu é boire:Lait maternisé,1
+MN39H,Enfant a reéu é boire: Thé / Infusions / Préparations,1
+MN39I,Enfant a reéu é boire: Miel,1
+MN39J,Enfant a reéu é boire: Médicaments prescrrits,1
+MN39X,Enfant a reéu é boire: Autre,1
+MN39Y,Enfant a reéu é boire: Rien donné é boire,1
+MN39NR,Enfant a reéu é boire: Non réponse,1
+PN3U,Temps resté au Centre de santé aprés l'accouchement- Unité,1
+PN3N,Temps resté au Centre de santé aprés l'accouchement - Nombre,1
+PN4,Quelqu'un a examiné l'état de santé de bébé avant de quitter le Centre de santé,1
+PN5,L'état de santé de la mére vérifiée avant de quitter le Centre de santé,1
+PN6,Quelqu'un a examiné l'état de santé de bébé aprés avoir quitté le Centre de santé,1
+PN8,Etat der santé dubébé vérifié é la fin de l'accouchement,1
+PN9,Etat de santé de la mére vérifié  é la fin de l'accouchement,1
+PN10,Vérification supplémentaire de l'état de santé apés l'accouchement,1
+PN11,Etat de santé du bébé vérifié aprés l'accouchement,1
+PN12,Nombre de fois que le bébé a été examiné,1
+PN13U,Combien de temps aprés l'accouchement a eu le premier contréle du bébé - Unité,1
+PN13N,Combien de temps aprés l'accouchement a eu le premier contréle du bébé - Nombre,1
+PN14A,Assistance du bébé é l'accouchement: MEDECIN,1
+PN14C,Assistance du bébé é l'accouchement: INFIRMIER/INFIRMIERE,1
+PN14D,Assistance du bébé é l'accouchement: ACCOUCHEUSE/SAGE-FEMME,1
+PN14F,Assistance du bébé é l'accouchement: ACCOUCHEUSE TRADITIONNELLE/MATRONE,1
+PN14G,Assistance du bébé é l'accouchement: AGENT DE SANTE COMMUNAUTAIRE,1
+PN14H,Assistance du bébé é l'accouchement: PARENT/AMI,1
+PN14X,Assistance du bébé é l'accouchement: AUTRE,1
+PN14NR,Assistance du bébé é l'accouchement: NON REPONSE,1
+PN15,L'endroit oé la santé du bébé a été examimée,1
+PN17,Etat de la mére vérifié aprés avoir quitté la structure de santé,1
+PN19,Etat de santé de la mére vérifié  é la fin de l'accouchement,1
+PN20,Etat de santé de la mére vérifié  aprés la naissance du bébé,1
+PN21,Nombre de fois que la mére a été examiné aprés la naissance du bébé,1
+PN22U,Combien de temps aprés l'accouchement a eu le premier contréle de la mére - Unité,1
+PN22N,Combien de temps aprés l'accouchement a eu le premier contréle de la mére- Nombre,1
+PN23A,Assistance de la mére é l'accouchement: MEDECIN,1
+PN23C,Assistance de la mére é l'accouchement: INFIRMIER/INFIRMIERE,1
+PN23D,Assistance de la mére é l'accouchement: ACCOUCHEUSE/SAGE-FEMME,1
+PN23F,Assistance de la mére é l'accouchement: ACCOUCHEUSE TRADITIONNELLE/MATRONE,1
+PN23G,Assistance é l'accouchement: AGENT DE SANTE COMMUNAUTAIRE,1
+PN23H,Assistance de la mére é l'accouchement: PARENT/AMI,1
+PN23X,Assistance de la mére é l'accouchement: AUTRE,1
+PN23NR,Assistance de la mére é l'accouchement: NON REPONSE,1
+PN24,L'endroit oé la santé e la mére a été examinée,1
+PN25A,"Durant les deux premiers jours aprés la naissance, un agent  de santé a fait des actes suivants:  Examiner le  cordon",1
+PN25B,"Durant les deux premiers jours aprés la naissance, un agent  de santé a fait des actes suivants: Prendre la temperature",1
+PN25C,"Durant les deux premiers jours aprés la naissance, un agent  de santé a fait des actes suivants: Counseils surl'allaitement",1
+PN27,"Durant les deux premiers jours aprés la naissance, un agent  de santé observe l'allaitement",1
+PN29,"Durant les deux premiers jours aprés la naissance, un agent  de santé  a pesé de nouveau l'enfant",1
+PN30,"Durant les deux premiers jours aprés la naissance, un agent  de santé a donné des informations sur les symptémes de la maladie del'enfant",1
+CP1,Enceinte en ce moment,1
+CP2,Utilisation actuelle des méthodes par le couple pour éviter une grossesse,1
+CP3,Avoir déjé utilisé une méthode pour éviter une grossesse,1
+CP4A,Méthode utilisée actuellement:  Stérilisation féminine,1
+CP4B,Méthode utilisée actuellement:  Stérilisation masculine,1
+CP4C,Méthode utilisée actuellement : DIU,1
+CP4D,Méthode utilisée actuellement:  Injectables,1
+CP4E,Méthode utilisée actuellement: Implants,1
+CP4F,Méthode utilisée actuellement: Pilules,1
+CP4G,Méthode utilisée actuellement: Condom masculin,1
+CP4H,Méthode utilisée actuellement: Condom féminin,1
+CP4I,Méthode utilisée actuellement: Diaphragme,1
+CP4J,Méthode utilisée actuellement: Mousse / Gelée,1
+CP4K,Méthode de l'allaitement maternel et de l'amenorrhée (LAM),1
+CP4L,Méthode utilisée actuellement: Abstinence périodique / Rhythme / Calendrier,1
+CP4M,Méthode utilisée actuellement: Retrait,1
+CP4X,Méthode utilisée actuellement: Autre,1
+CP4NR,Méthode utilisée actuellement: Non réponse,1
+UN2,La grossesse actuelle a été désirée,1
+UN4,Désir d'avoir un bébé plus tard  ou ne pas en avoir,1
+UN5,Désir d'avoir un autre enfant aprés celui qui est attendu maintenant,1
+UN7,Désir d'avoir un autre enfant dans l'avenir,1
+UN8U,Temps d'attente avant la naissance d'un autre enfant (Unité),1
+UN8N,Temps d'attente avant la naissance d'un autre enfant (Nombre),1
+UN11,Physiquement capable de tomber enceinte,1
+UN12A,Raison:  Rapports sexuels pas fréquents /Pas de rapports,1
+UN12B,Raison: Menopausée,1
+UN12C,Raison: N'a jamais eu de régles,1
+UN12D,Raison:: Hysterectomie,1
+UN12E,Raison: Essaye de tomber enceinte depuis 2 ans ou plus sans résultat,1
+UN12F,Raison: Enamnorhée postpartum,1
+UN12G,Raison: Allaite,1
+UN12H,Raison: Trop agée,1
+UN12I,Raison: Fatalistique,1
+UN12X,Raison: Autre,1
+UN12Z,Raison: NSP,1
+UN12NR,Raison: Non réponse,1
+UN14U,Début des derniéres régles - Unité,1
+UN14N,Début des derniéres régles- Nombre,1
+UN16,Pas de participation  aux activités sociales ou journées de travail é cause des derniéres régles,1
+UN17,Disponibilité d'un lieu privé pour se laver et se changer durant les derniéres régles,1
+UN18,"Utilisation des serviettes hygiéniques, des tampons ou des morceaux de tissus",1
+UN19,produits réutilisables,1
+DV1A,Si elle sortt sans le lui dire,1
+DV1B,Si elle néglige les enfants,1
+DV1C,Si elle se diospute avec lui,1
+DV1D,Si elle refuse d'avoir des rapports sexuels avec lui,1
+DV1E,Si elle bréle la nourriture,1
+VT1,Quelque chose prise en utilisant la force ou en menaéant d'utiliser la force,1
+VT2,Victimisation a eu lieu dans les douze derniers mois,1
+VT3,Nombre de fois que la victimisation est arrivée dans les douze derniers mois,1
+VT5,Quelque chose a été volée pendant cette victimisation,1
+VT6,Personne(s) étai(en)t armée (s),1
+VT7A,"Les délinquants avaient un couteau, un fusil ou autre chose utilisé comme arme:  Un couteau",1
+VT7B,"Les délinquants avaient un couteau, un fusil ou autre chose utilisé comme arme: Un revolver",1
+VT7C,"Les délinquants avaient un couteau, un fusil ou autre chose utilisé comme arme: Quelque chose autre",1
+VT7X,"Les délinquants avaient un couteau, un fusil ou autre chose utilisé comme arme:  Une Machette",1
+VT8,Incident déclaré é la police,1
+VT9,Personnellement agressée ou menacée par quelqu'un de maniére vraiment effrayante,1
+VT10,Attaque produite au cours des 12 derniers mois,1
+VT11,Nombre de fois que l'attaque s'est produite au cours de la derniére année,1
+VT12,L'endroit oé l'attaque a eu lieu la derniére fois,1
+VT13,Nombre de personnes impliquées é commettre le délit,1
+VT14,Au moins un des délinquants reconnus au moment de l'incident,1
+VT17,Personne(s) étai(en)t armée (s),1
+VT18A,"Les délinquants avaient un couteau, un fusil ou autre chose utilisé comme arme:  Un couteau",1
+VT18B,"Les délinquants avaient un couteau, un fusil ou autre chose utilisé comme arme: Un revolver",1
+VT18X,"Les délinquants avaient un couteau, un fusil ou autre chose utilisé comme arme: Quelque chose autre",1
+VT18C,"Les délinquants avaient un couteau, un fusil ou autre chose utilisé comme arme:  Une Machette",1
+VT19,Incident déclaré é la police,1
+VT20,Niveau de sécurité senti  en marchant seul dans le quartier aprés la tombée de la nuit,1
+VT21,Se sentir en sécurité en marchant seul dans le quartier aprés la tombée de la nuit,1
+VT22A,"Au cours des 12 derniers mois, s'est senti discriminé: origine ethnique ou d'immigration",1
+VT22B,"Au cours des 12 derniers mois, s'est senti discriminé: Genre",1
+VT22C,"Au cours des 12 derniers mois, s'est senti discriminé: Orientation sexuelle",1
+VT22D,"Au cours des 12 derniers mois, s'est senti discriminé: Age",1
+VT22E,"Au cours des 12 derniers mois, s'est senti discriminé: Religion ou Croyance",1
+VT22F,"Au cours des 12 derniers mois, s'est senti discriminé:Handicap",1
+VT22X,"Au cours des 12 derniers mois, s'est senti discriminé:  Autre raison",1
+MA1,Actuellement marié ou vivant avec un homme,1
+MA2,Age du mari /partenaire,1
+MA3,"Mari/partenaire a d""autres épouses / femmes",1
+MA4,Nombre d'autres épouses ou partenaires,1
+MA5,Déjé été mariée ou vécu avec quelqu'un comme mariée,1
+MA6,Situation matrimoniale actuelle,1
+MA7,Déjé été mariée ou vécu avec quelqu'un une fois ou plus d'une fois,1
+MA8M,Mois de la premiére union,1
+MA8Y,Année de la premiére union,1
+MA11,Age é la premiére union,1
+AF2,Port des lunettes de vue ou des lentilles de contact,1
+AF3,Port d'une prothése auditive,1
+AF6,"Difficulté é voir, méme si on porte des lunettes ou des lentilles de contact",1
+AF8,"Difficulté é entendre, méme si on utilise un appareil auditif",1
+AF9,Difficulté é marcher ou é monter des escaliers,1
+AF10,Difficulté é se souvenir ou é se concentrer,1
+AF11,"Difficulté é prendre soins soi-méme, comme se laver ou s'habiller seule",1
+AF12,Difficulté é communiquer,1
+SB1,Age au premier rapport sexuel,1
+SB2U,Temps depuis les derniers rapports sexuels - Unité,1
+SB2N,Temps depuis les derniers rapports sexuels - Nombre,1
+SB3,Condom utilisé lors du dernier rapport sexuel,1
+SB4,Relation avec le dernier partenaire sexuel,1
+SB6,Age du dernier partenaire sexuel,1
+SB7,Rapports sexuels avec tout autre personne au cours des 12 derniers mois,1
+SB8,Condom utilisé avec le dernier partenaire sexuel,1
+SB9,Relation avec le dernier partenaire sexuel,1
+SB12,Age du dernier partenaire sexuel,1
+HA1,Déjé entendu parler du VIH ou du sida,1
+HA2,Peut éviter le VIH en ayant un partenaire non infecté,1
+HA3,Peut contracter  le VIH par des piqéres de moustiques,1
+HA4,Peut éviter le VIH en utilisant correctement un préservatif é chaque fois qu'on a des rapports sexuels,1
+HA5,Peut contracter le VIH en partageant la nourriture avec une personne qui a le VIH,1
+HA6,Peut attraper le VIH par des moyens surnaturels,1
+HA7,Une personne paraissant en bonne santé peut avoir du VIH,1
+HA8A,Transmission du VIH de la mére é l'enfant au cours la grossesse,1
+HA8B,Transmission du VIH de la mére é l'enfant pendant l'accouchement,1
+HA8C,Transmission du VIH de la mére é l'enfant en aillaitant,1
+HA10,Médicaments spéciaux pour reduire le risque de transmission du VIH au bébé,1
+HA13A,Information sur le VIH lors de la visite des soins prénatals: Transmission du VIH par la mére,1
+HA13B,Information sur le VIH lors de la visite des soins prénatals: Chose é faire pour éviter leVIH,1
+HA13C,Information sur le VIH lors de la visite des soins prénatals: Possibilité de faire le test du VIH,1
+HA13D,Information sur le VIH lors de la visite des soins prénatals: Proposition de faire le test du VIH,1
+HA14,Testée pour le VIH dans le cadre des soins prénatals,1
+HA15,Résultats du test pendant les soins prénatals ont été reéus,1
+HA16,"Conseils liés au VIH, aprés avoir reéu les résultats du test",1
+HA18,Proposition de faire un test du VIH avant l'accouchement,1
+HA19,Testée pour le VIH durant l'accouchement,1
+HA20,Résultats du test pendant l'accoucement ont été reéus,1
+HA22,Testée pour le VIH depuis le test pendant la grossesse,1
+HA23,Moment le plus recent qu'on a eu le test du VIH,1
+HA24,Déja été testée pour le VIH,1
+HA25,Moment le plus recent qu'on a eu le test du VIH,1
+HA26,Résultats du test de dépistage du VIH ont été obtenus,1
+HA27,Connaétre un endroit pour obtenir un test de dépistage du VIH,1
+HA28,Entendu parler du kit de test pour le dépistage du VIH,1
+HA29,Déjé testée soi-méme en utilisant un kit de test,1
+HA30,Acheteriez-vous des légumes frais é un marchand qui a le VIH,1
+HA31,Enfants vivant avec le VIH devraient étre autorisés de fréquenter la méme école que les autres enfants,1
+HA32,Les gens hésitent é faire un test de du VIH parce qu'ils ont peur de la réaction d'autres personnes si le résultat du test est positif,1
+HA33,Les gens parlent mal des personnes vivant avec le VIH ou dont on pense vivre avec le VIH,1
+HA34,"Les personnes vivant avec le VIH, ou dont on pense vivre avec le VIH, perdent le respect des autres personnes",1
+HA35,Accord avec la déclaration suivante: j'aurais honte si quelqu'un dans ma famille avait le VIH,1
+HA36,La peur d'entrer en contact avec la salive d'une personne vivant avec le VIH,1
+MM1,Nombre de naissances de la mére bilogique,1
+MM3,Nombre de naissances précédentes,1
+TA1,Déjé essayé de fumer,1
+TA2,Age quand la cigarette a été fumée pour la premiére fois,1
+TA3,Fumez-vous des cigarettes actuellement,1
+TA4,Nombre de cigarettes fumées au cours des 24 derniéres heures,1
+TA4A,Temps qu'on fume la premiére cigarette aprés le reveil,1
+TA5,Nombre de jours oé les cigarettes ont été fumées au cours du dernier mois,1
+TA6,Déjé essayé des produits  é base de tabac é fumer autres que la cigarette,1
+TA7,Consommé des produits de tabac é fumer autres que la cigarette au cours du dernier mois,1
+TA8A,Type de produit de tabac consommé: Cigares,1
+TA8B,Type de produit de tabac consommé: Pipe é eau / Chicha,1
+TA8C,Type de produit de tabac consommé: Cigarillos,1
+TA8D,Type de produit de tabac consommé: Pipe,1
+TA8X,Type de produit de tabac consommé: Autre,1
+TA8NR,Type de produit de tabac consommé: Non réponse,1
+TA9,Nombre de jours oé les produits du tabac ont ont été fumés au cours du mois dernier,1
+TA9A,Difficile de s'abstenir de fumer é des endroits oé il est interdit de fumer,1
+TA10,"Déjé essayé toute forme de produits  é base de tabac qui ne se fument pas comme le tabac é chiquer, é priser",1
+TA11,Consommé tous les produits é base de tabac qui ne se fument pas au cours du dernier mois,1
+TA12A,"Type de produit de tabac qui ne se fument pas, utilisé au cours du mois dernier:  Tabac é priser",1
+TA12B,"Type de produit de tabac qui ne se fument pas, utilisé au cours du mois dernier:  Tabac é chiquer",1
+TA12X,"Type de produit de tabac qui ne se fument pas, utilisé au cours du mois dernier: Autre",1
+TA12NR,"Type de produit de tabac qui ne se fument pas, utilisé au cours du mois dernier: Non réponse",1
+TA13,Nombre de jours oé les produits du tabac qui se fument pas ont été  utilisés le mois passé,1
+TA14,Déjé consommé de l'alcool,1
+TA15,Age quand vous avez consommé l'alcool pour la premiére fois,1
+TA16,Nombre de jours oé au moins une boisson alcoolisée a été consommée le mois passé,1
+TA16AA,Biére,1
+TA16AB,Vins,1
+TA16AC,"Wisky, Cognac, Vodka, Rhun",1
+TA16AD,"Agene, Lotoko, Lunguila, Zododo",1
+TA16AX,Autre,1
+TA16ANR,Non réponse,1
+TA17,Nombre de de doses habituellement consommées par jour,1
+LS1,Estimation du bonheur global,1
+LS2,Satisfaction é la marche de l'échelle,1
+LS3,Satisfaction de la vie par rapport é l'année derniére,1
+LS4,Satisfaction de la vie l'année derniére é partir de la date de l'enquéte,1
+HH4,Numéro Superviseur,1
+HH6,Milieu de résidence,1
+HH7,Province,1
+WDOI,Date d'entretien femmes (CMC),1
+WDOB,Date de naissance de la femme (CMC),1
+WAGE,Age,1
+WDOM,Date du mariage de la femme (CMC),1
+WAGEM,Age at first marriage/union of woman,1
+WDOBFC,Date de naissance du premier enfant (CMC),1
+WDOBLC,Date de naissance du dernier enfant (CMC),1
+MSTATUS,Statut matrimonial / union de la femme,1
+CEB,Enfants jamais nés,1
+CSURV,Enfants survivant,1
+CDEAD,Enfants morts,1
+WMWEIGHT,Poids de l'échantillon des femmes,1
+WELEVEL,Niveau d'instruction de la femme,1
+WELEVEL1,Niveau d'instruction de la femme (variable recodée),1
+WELEVEL2,Niveau d'instruction de la femme (variable recodée),1
+INSURANCE,Assurance santé,1
+DISABILITY,Difficultés fonctionnelles (âge 18-49 ans),1
+BH4D_FIRST,Jour de naissance,1
+BH4M_FIRST,Mois de naissance,1
+BH4Y_FIRST,Année de naissance,1
+BH6_FIRST,Age de l'enfant,1
+BH3_LAST,Sexe de l'enfant,1
+BH4D_LAST,Jour de naissance,1
+BH4M_LAST,Mois de naissance,1
+BH4Y_LAST,Année de naissance,1
+BH6_LAST,Age de l'enfant,1
+WSCORE,Score du bien être combiné,1
+WINDEX5,Quintile du bien étre,1
+WINDEX10,Percentile Group of com1,1
+WSCOREU,Urban wealth score,1
+WINDEX5U,Quintile du bien être en milieu urbain,1
+WINDEX10U,Percentile Group of urb1,1
+WSCORER,Rural wealth score,1
+WINDEX5R,Quintile du bien être en milieu rural,1
+WINDEX10R,Percentile Group of rur1,1
+PSU,Unité d'échantillonnage primaire,1
+STRATUM,Stratum,1
